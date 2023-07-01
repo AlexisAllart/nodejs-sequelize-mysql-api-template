@@ -1,0 +1,7 @@
+node_modules/
+.env
+.vscode/
+/migrations/*
+!/migrations/.gitkeep
+/public/uploads/*
+!/public/uploads/.gitkeep

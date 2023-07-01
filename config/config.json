@@ -1,0 +1,35 @@
+{
+  "development": {
+    "username": "root",
+    "password": "root",
+    "database": "nodejs-api-template",
+    "host": "localhost",
+    "port": 3306,
+    "dialect": "mysql",
+    "query": {
+      "raw": true
+    }
+  },
+  "test": {
+    "username": "root",
+    "password": "root",
+    "database": "nodejs-api-template",
+    "host": "localhost",
+    "port": 3306,
+    "dialect": "mysql",
+    "query": {
+      "raw": true
+    }
+  },
+  "production": {
+    "username": "root",
+    "password": "root",
+    "database": "nodejs-api-template",
+    "host": "localhost",
+    "port": 3306,
+    "dialect": "mysql",
+    "query": {
+      "raw": true
+    }
+  }
+}
